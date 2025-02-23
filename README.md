@@ -7,12 +7,12 @@ Funcionalidades:
 -Edição de informações
 -Exclusão de contas
 -Gerenciamento por administrador
--Integração com banco de dados MySQL
+-Integração com banco de dados MySQL.
 
 Tecnologias Utilizadas:
 -PHP para a lógica do servidor
 -MySQL para armazenamento de dados
--HTML, CSS e JavaScript para a interface
+-HTML, CSS e JavaScript para a interface.
 
 Como Usar:
 -Clone este repositório:
